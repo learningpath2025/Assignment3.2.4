@@ -1,13 +1,13 @@
 # Assignment3.2.4
 
-- Write a function that takes 4 numbers as input to calculate the total and average.
-- (Make use of params array to pass arguments and out parameters to return both total and average to main method).
+- Write a function that takes numbers as input to calculate the total and average.
+- Make use of params array to pass arguments and out parameters to return both total and average to main method.
 - Test Data:
-	- Enter the First number: 10
-	- Enter the Second number: 15
-	- Enter the third number: 20
-	- Enter the fourth number: 30
+	- Enter number 1: 10
+	- Enter number 2: 15
+	- Enter number 3: 20
+	- Enter number 4: 30
 
 - Expected Output:
-	- The average of 10 , 15 , 20 , 30 is: 18.75
-	- The total is 75
+	- The average is: 18.75
+	- The total is: 75
